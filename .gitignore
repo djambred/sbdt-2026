@@ -1,2 +1,3 @@
-*/data/*
-pert1/data
+db/data/*
+/db/data/
+../db/data/*
