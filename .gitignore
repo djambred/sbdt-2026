@@ -2,8 +2,8 @@ db/data/*
 /db/data/
 ../db/data/*
 metabase-data/*
-posgres-data/*
+postgres-data/*
 /metabase-data/
-/posgres-data/
+/postgres-data/
 ../metabase-data/*
-../posgres-data/*
+../postgres-data/*
