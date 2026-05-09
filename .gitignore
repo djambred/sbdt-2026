@@ -7,3 +7,4 @@ postgres-data/*
 /postgres-data/
 ../metabase-data/*
 ../postgres-data/*
+pert2/db/data-*
